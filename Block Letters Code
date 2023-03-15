@@ -1,0 +1,25 @@
+#First, write two comments with:
+#Your first and last name.
+#A fun fact about yourself.
+
+Start Code
+---------------------------------------------------------------------------------------------------------------
+#Oliver Sinckler
+# I am Jamaican
+
+#3.Output your first initial as a block letter. There are a few ways to do this!
+#Press Save to run your program
+
+name = """
+ 000    sss
+0   0  s   s
+0   0  s
+0   0   sss
+0   0      s
+0   0  s   s
+ 000    sss'
+"""
+#Output your second initial as a block letter by adding to the print() statements.
+#Press Save to run your program.
+
+print(name)
